@@ -1,1 +1,11 @@
-echo "Hello, WOrld"
+echo "Hello, WOrld" 
+echo "This is my Day 1 of Bash Journey" 
+echo "Today i am learning the basics of bash (Shell Sripting)"
+echo "1. Navigating Your drive using  {cd command} "
+echo "2. Command to view you files using {ls, ls-l, ls-a and ls-la} "
+echo "3. Read/view the file using {cat filename.txt} "
+echo "4. Edit file {nano filename.txt} "
+echo "5. Open in external app {statrt filename.txt} "
+echo "6. Select all files ending in .txt: {cat *.txt} "
+echo "7. Move all images to a folder named "images":{mv *.png images/} "
+
